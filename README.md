@@ -1,9 +1,9 @@
 ## PyCompta 1.4
 
 <p align="center">
-<img src="https://imgur.com/8QbrmQ2"/>
-<img src="https://imgur.com/490Driu"/>
-<img src="https://imgur.com/DDhGAf8"/>
+<img src="https://imgur.com/8QbrmQ2.png"/>
+<img src="https://imgur.com/490Driu.png"/>
+<img src="https://imgur.com/DDhGAf8.png"/>
 </p>
 
 
@@ -17,11 +17,11 @@ C'est un script Python pour faciliter la calculation du fracture. je l'ai fait p
 
 
 ### Caractéristiques
-il comport 4 Modules :
-1 - PyFacture : ce module vous demande des valeurs pour un calcul ultérieur, puis affiche les résultats aux format "FACTURE".
-2 - HT vers TTC : Ce Module Calcule la Résultat 'TTC' basé sur le Montant 'HT' et le Taux 'TVA' Entrée par l'utilisateur.
-3 - TTC vers HT : Ce module inverse la resultat TTC vers le hors tax(HT).
-4 - TVA depuis TTC : Ce Module Calcule le Montant TVA depuis le Montat TTC.
+<p>il comport 4 Modules :</p>
+<p>1 - PyFacture : ce module vous demande des valeurs pour un calcul ultérieur, puis affiche les résultats aux format "FACTURE".</p>
+<p>2 - HT vers TTC : Ce Module Calcule la Résultat 'TTC' basé sur le Montant 'HT' et le Taux 'TVA' Entrée par l'utilisateur.</p>
+<p>3 - TTC vers HT : Ce module inverse la resultat TTC vers le hors tax(HT).</p>
+<p>4 - TVA depuis TTC : Ce Module Calcule le Montant TVA depuis le Montat TTC.</p>
 
 
 # How to run (Kali Linux)
