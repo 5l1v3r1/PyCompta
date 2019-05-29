@@ -7,8 +7,8 @@
 </p>
 
 
-***Pour les fonctionnalités recommandées, ajoutez-les dans l'onglet "Issues"..
-***Ce script facilitera votre facturation et votre vie.
+***Pour les fonctionnalités recommandées, ajoutez-les dans l'onglet "Issues"..***  
+***Ce script facilitera votre facturation et votre vie.***
   
 
 ### Qu'est-ce que c'est
