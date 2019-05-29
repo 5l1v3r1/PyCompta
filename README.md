@@ -1,4 +1,4 @@
-## PyCompta 1.4
+# PyCompta 1.4
 
 <p align="center">
 <img src="https://imgur.com/8QbrmQ2.png"/>
@@ -7,10 +7,9 @@
 </p>
 
 
-**Pour les fonctionnalités recommandées, ajoutez-les dans l'onglet "Issues"..**
-
-**Ce script facilitera votre facturation et votre vie.**
-
+***Pour les fonctionnalités recommandées, ajoutez-les dans l'onglet "Issues"..
+***Ce script facilitera votre facturation et votre vie.
+  
 
 ### Qu'est-ce que c'est
 C'est un script Python pour faciliter la calculation du fracture. je l'ai fait pour rendre mon calcul plus rapide et gagner du temps, pour cela la je le publier.
@@ -24,7 +23,7 @@ il comport 4 Modules :
 4 - TVA depuis TTC : Ce Module Calcule le Montant TVA depuis le Montat TTC.  
 
 
-# How to run (Kali Linux)
+### How to run (Kali Linux)
   make sure you are a root user
 ```
 cd
