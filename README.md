@@ -23,7 +23,7 @@ il comport 4 Modules :
 4 - TVA depuis TTC : Ce Module Calcule le Montant TVA depuis le Montat TTC.  
 
 
-### How to run (Kali Linux)
+### How to run (Linux)
   make sure you are a root user
 ```
 cd
