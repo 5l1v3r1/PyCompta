@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
-# Author  : Med Boutaleb @M3xB0
-# Contact : M3xB0@protonmail.ch
+# Author  : Med Boutaleb @m3dsec
+# Contact : m3d5ec@protonmail.ch
 #
 
 import os
@@ -19,8 +19,8 @@ pycompta_logo = '''
     \/_/  `/___/> \\/___/  \/___/  \/_/\/_/\/_/\ \ \/  \/__/\/__/\/_/   
              /\___/ -=[ PyCompta v1.4-dev ]=-   \ \_\                   
              \/__/ --=[ 4 Modules         ]=--   \/_/ 
-                  ---=[ Coded By Med Boutaleb @M3xB0  ]=---    
-                 ----=[ Contact : M3xB0@protonmail.ch ]=----  '''
+                  ---=[ Coded By Med Boutaleb @m3dsec  ]=---    
+                 ----=[ Contact : m3d5ec@protonmail.ch ]=----  '''
 
 def menu_general():
 	time.sleep(0.1)
