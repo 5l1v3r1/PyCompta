@@ -8,11 +8,11 @@
 
 
 ***Pour les fonctionnalités recommandées, ajoutez-les dans l'onglet "Issues"..***  
-***Ce script facilitera votre facturation et votre vie.***
+***Ce script facilitera votre facturation.***
   
 
 ### Qu'est-ce que c'est
-C'est un script Python pour faciliter la calculation du fracture. je l'ai fait pour rendre mon calcul plus rapide et gagner du temps, pour cela la je le publier.
+C'est un script Python pour faciliter la calculation du fracture. j l'ai fait pour rendre mon calcul plus rapide et gagner du temps.
 
 
 ### Caractéristiques
